@@ -3,7 +3,7 @@
 Created from scratch with help from the Unity store's free art assets (tilemaps, pixelart, sound effects).
 
 **Most written scripts are under the assets/scripts/ directory.**
-<br>
+
 Fully functional fantasy rpg-like game with several features including but not limited to: 
  - pve combat
  - levels with spendable talent points
