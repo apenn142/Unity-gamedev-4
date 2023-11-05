@@ -1,5 +1,5 @@
 # Unity-gamedev-4
-## Created in Unity using C#.
+## Created in Unity, written in C#.
 Created from scratch with help from the Unity store's free art assets (tilemaps, pixelart, sound effects).
 
 **Most written scripts are under the assets/scripts/ directory.**
